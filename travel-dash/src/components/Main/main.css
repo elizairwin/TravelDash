@@ -1,0 +1,17 @@
+h1{
+    color:rgb(77, 108, 248);
+}
+
+.navbar{
+    width: 100%;
+    text-align: center;
+}
+
+ul
+{
+    list-style-type: none;
+}
+
+ul.links li{
+   display: inline;
+}
