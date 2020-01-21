@@ -1,0 +1,33 @@
+h1{
+    color:rgb(77, 108, 248);
+    font-family: 'Lobster', cursive;
+    text-align: center;
+}
+
+.title{
+    font-size: 100px;
+}
+
+.tagline{
+    font-size:30px;
+}
+
+h2{
+    font-family: 'Fjalla One', sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+.navbar{
+    width: 100%;
+    text-align: center;
+}
+
+ul
+{
+    list-style-type: none;
+}
+
+ul.links li{
+   display: inline;
+}
